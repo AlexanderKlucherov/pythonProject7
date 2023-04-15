@@ -1,6 +1,6 @@
 **Тестовое задание в отдел разработки серверного программного обеспечения**
 
-![image](https://user-images.githubusercontent.com/63915583/232223788-ad492aba-f7dd-4113-a385-4e87e184e606.png)
+![image](https://user-images.githubusercontent.com/63915583/232224473-11b0dd5f-25ac-4624-bc59-c73d6c8ecb20.png)
 
 
 
