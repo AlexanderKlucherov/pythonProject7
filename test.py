@@ -7,7 +7,7 @@ import unittest
 from functions import encryption_caesar, decryption_caesar
 
 
-class TestCaesar(unittest.TestCase):
+class TestEncryption(unittest.TestCase):
     def test_1(self):
         self.assertEqual(encryption_caesar("бульдог", 4), 'ечпѐитз')
 
@@ -18,7 +18,7 @@ class TestCaesar(unittest.TestCase):
         self.assertEqual(encryption_caesar("Первый - First", 9), 'Шощлєт)6)Or{|}')
 
 
-class TestCaesar2(unittest.TestCase):
+class TestDecryption(unittest.TestCase):
     def test_1(self):
         self.assertEqual(decryption_caesar('ечпѐитз', 4), 'бульдог')
 
